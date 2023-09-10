@@ -10,6 +10,7 @@ body {
 .slackUserName {
     color: red;
     text-align: center;
+    font-size: 3.6rem;
 }
 
 .slackDisplayImage { 
