@@ -1,0 +1,46 @@
+body {
+    background-color: cadetblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+.Container{
+    text-align: center;
+}
+
+.slackUserName {
+    color: red;
+    text-align: center;
+}
+
+.slackDisplayImage { 
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    
+}
+
+p{
+    display: inline;
+    margin: 5px;
+}
+
+#currentUTCTime{
+    font-size: 50px;
+    color: #004AAD;
+}
+
+#currentDayOfTheWeek{
+    font-size: 50px;
+    color: #FF5757;
+}
+
+.myTrack{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.7rem;
+}
+
+
+.githubURL {
+    color: white;
+    background-color: black;
+}
